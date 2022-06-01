@@ -1,0 +1,69 @@
+x_key,x_value,y_key,y_value,source,species
+temperature.C,15,r_m,3.74E-02,Zhang2000,Liriomyza sativae
+temperature.C,20,r_m,1.30E-01,Zhang2000,Liriomyza sativae
+temperature.C,25,r_m,2.20E-01,Zhang2000,Liriomyza sativae
+temperature.C,30,r_m,2.67E-01,Zhang2000,Liriomyza sativae
+temperature.C,35,r_m,2.19E-01,Zhang2000,Liriomyza sativae
+temperature.C,10.5,r_m,1.00E-09,Chien2007,Liriomyza sativae
+temperature.C,9.2,r_m,1.00E-09,Chien2007,Liriomyza sativae
+temperature.C,11,r_m,1.00E-09,Chien2007,Liriomyza sativae
+temperature.C,11.1,r_m,1.00E-09,Chien2007,Liriomyza sativae
+temperature.C,15,r_m,1.62E-02,Chien2007,Liriomyza sativae
+temperature.C,20,r_m,1.16E-01,Chien2007,Liriomyza sativae
+temperature.C,25,r_m,1.62E-01,Chien2007,Liriomyza sativae
+temperature.C,30,r_m,2.36E-01,Chien2007,Liriomyza sativae
+temperature.C,35,r_m,1.00E-09,Chien2007,Liriomyza sativae
+temperature.C,10,r_m,1.00E-09,Haghani2006,Liriomyza sativae
+temperature.C,15,r_m,2.50E-02,Haghani2006,Liriomyza sativae
+temperature.C,20,r_m,1.13E-01,Haghani2006,Liriomyza sativae
+temperature.C,25,r_m,1.96E-01,Haghani2006,Liriomyza sativae
+temperature.C,30,r_m,1.88E-01,Haghani2006,Liriomyza sativae
+temperature.C,35,r_m,3.00E-03,Haghani2006,Liriomyza sativae
+temperature.C,40,r_m,1.00E-09,Haghani2006,Liriomyza sativae
+temperature.C,15,r_m,0.007122, Mujica 2017,Liriomyza huidobrensis
+temperature.C,16,r_m,0.0108924, Mujica 2017,Liriomyza huidobrensis
+temperature.C,17,r_m,0.0169006, Mujica 2017,Liriomyza huidobrensis
+temperature.C,18,r_m,0.0226484, Mujica 2017,Liriomyza huidobrensis
+temperature.C,19,r_m,0.0274045, Mujica 2017,Liriomyza huidobrensis
+temperature.C,20,r_m,0.0318902, Mujica 2017,Liriomyza huidobrensis
+temperature.C,21,r_m,0.03511775, Mujica 2017,Liriomyza huidobrensis
+temperature.C,22,r_m,0.036663, Mujica 2017,Liriomyza huidobrensis
+temperature.C,23,r_m,0.035263333, Mujica 2017,Liriomyza huidobrensis
+temperature.C,24,r_m,0.032955, Mujica 2017,Liriomyza huidobrensis
+temperature.C,25,r_m,0.0255805, Mujica 2017,Liriomyza huidobrensis
+temperature.C,26,r_m,0.0121656, Mujica 2017,Liriomyza huidobrensis
+temperature.C,35,r_m,0.01,Leibie 1984,Liriomyza trifolii
+temperature.C,35,r_m,0.01,Ozawa 2001,Liriomyza trifolii
+temperature.C,12.6,r_m,0.0001,Minkenberg 1988,Liriomyza trifolii
+temperature.C,15,r_m,0.001,Minkenberg 1988,Liriomyza trifolii
+temperature.C,20,r_m,0.1254,Minkenberg 1988,Liriomyza trifolii
+temperature.C,25,r_m,0.1254,Minkenberg 1988,Liriomyza trifolii
+temperature.C,19.5,r_m,0.0744,Minkenberg 1988,Liriomyza trifolii
+temperature.C,25,r_m,0.17,Tokumaru 2003,Liriomyza trifolii
+temperature.C,20,r_m,0.095,Wang 2014,Liriomyza trifolii
+temperature.C,25,r_m,0.178,Wang 2014,Liriomyza trifolii
+temperature.C,31,r_m,0.224,Wang 2014,Liriomyza trifolii
+temperature.C,33,r_m,0.229,Wang 2014,Liriomyza trifolii
+temperature.C,21,r_m,0.08,Mujica 2017,Liriomyza trifolii
+temperature.C,22,r_m,0.106,Mujica 2017,Liriomyza trifolii
+temperature.C,23,r_m,0.119,Mujica 2017,Liriomyza trifolii
+temperature.C,24,r_m,0.132,Mujica 2017,Liriomyza trifolii
+temperature.C,25,r_m,0.145,Mujica 2017,Liriomyza trifolii
+temperature.C,26,r_m,0.143,Mujica 2017,Liriomyza trifolii
+temperature.C,27,r_m,0.134,Mujica 2017,Liriomyza trifolii
+temperature.C,28,r_m,0.124,Mujica 2017,Liriomyza trifolii
+temperature.C,29,r_m,0.129,Mujica 2017,Liriomyza trifolii
+temperature.C,30,r_m,0.1,Mujica 2017,Liriomyza trifolii
+temperature.C,31,r_m,0.06,Mujica 2017,Liriomyza trifolii
+temperature.C,15,r_m,0.0709,Hondo2006,Diglyphus isaea
+temperature.C,15,r_m,0.0491,Hondo2006,Diglyphus isaea
+temperature.C,20,r_m,0.15,Hondo2006,Diglyphus isaea
+temperature.C,20,r_m,0.119,Hondo2006,Diglyphus isaea
+temperature.C,25,r_m,0.205,Hondo2006,Diglyphus isaea
+temperature.C,25,r_m,0.183,Hondo2006,Diglyphus isaea
+temperature.C,30,r_m,0.203,Hondo2006,Diglyphus isaea
+temperature.C,30,r_m,0.215,Hondo2006,Diglyphus isaea
+temperature.C,15,r_m,0.0269,Hondo2006,Hemiptarsenus varicornis
+temperature.C,20,r_m,0.108,Hondo2006,Hemiptarsenus varicornis
+temperature.C,25,r_m,0.2,Hondo2006,Hemiptarsenus varicornis
+temperature.C,30,r_m,0.278,Hondo2006,Hemiptarsenus varicornis
